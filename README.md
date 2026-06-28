@@ -119,6 +119,39 @@ python Stopwatch App.py
 * User input handling
 * Console application development
 
+
+# ⏱️ Stopwatch Application
+
+## 📌 Overview
+
+A Python-based stopwatch application that allows users to start and stop timing while displaying the elapsed time.
+
+## ✨ Features
+
+* Start the stopwatch
+* Stop the stopwatch
+* Display elapsed time
+* Easy-to-use console interface
+
+## 🛠️ Technologies Used
+
+* Python
+* time module
+
+## ▶️ How to Run
+
+```bash
+python Stopwatch App.py
+```
+
+## 📚 Learning Outcomes
+
+* Measuring elapsed time
+* User input handling
+* Console application development
+
 ## 👩‍💻 Author
 
 Pranjali
+
+
